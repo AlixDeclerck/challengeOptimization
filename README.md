@@ -1,2 +1,2 @@
 # challengeOptimization
-Graphe and optimizations - challenge - groupe 5
+Graph and optimizations - challenge - group 5
